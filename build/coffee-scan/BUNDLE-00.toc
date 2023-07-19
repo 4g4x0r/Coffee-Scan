@@ -1,0 +1,3 @@
+([('coffee-scan',
+   '/Users/c3nz/.config/bin/coffee-scan/dist/coffee-scan',
+   'EXECUTABLE')],)
